@@ -1,0 +1,7 @@
+$dokka.format:gfm
+$dokka.linkExtension:md
+$dokka.location:kohii.v1$findActivity(android.content.Context)kohii.v1/android.content.-context/find-activity.md
+$dokka.location:kohii.v1$onEachAcquired(androidx.core.util.Pools.Pool((kohii.v1.onEachAcquired.T)), kotlin.Function1((kohii.v1.onEachAcquired.T, kotlin.Unit)))kohii.v1/androidx.core.util.-pools.-pool/on-each-acquired.md
+kohii.v1
+kohii.v1.core
+kohii.v1.media
